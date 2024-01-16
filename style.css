@@ -1,0 +1,16 @@
+#logo {
+  width: 300px;
+}
+
+#topbar {
+  display: flex;
+  justify-content: space-between;
+}
+
+table,
+th,
+td {
+  font-family: arial, sans-serif;
+  border: solid;
+  width: 50%;
+}
