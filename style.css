@@ -14,3 +14,7 @@ td {
   border: solid;
   width: 50%;
 }
+
+body {
+  background: rgb(75, 204, 204);
+}
